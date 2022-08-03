@@ -10,4 +10,5 @@ Benefits over Voron: much lighter gantry QuadXY motion system, originally from V
 
 DISCLAIMER!!!
 Z  HEIGHT FOR 300MM MODEL IS ONLY 250MM IN CAD MODEL
+
 BALLLSCREW VERSION HAS BED MOUNT THAT CAN'T BE 3D PRINTED, MUST BE MACHINED
