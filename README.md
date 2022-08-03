@@ -6,3 +6,8 @@ a voron trident 300mm frame with a vzbot gantry! what's not to like?
 Benefits over VZBot: 3 independent z ballscrews, allowing for tilt bed levelling
 
 Benefits over Voron: much lighter gantry QuadXY motion system, originally from VZBot
+
+
+DISCLAIMER!!!
+Z  HEIGHT FOR 300MM MODEL IS ONLY 250MM IN CAD MODEL
+BALLLSCREW VERSION HAS BED MOUNT THAT CAN'T BE 3D PRINTED, MUST BE MACHINED
